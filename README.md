@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=%F0%9D%90%92%F0%9D%90%A1%F0%9D%90%AB%F0%9D%90%AE%F0%9D%90%AD%F0%9D%90%A2+%F0%9D%90%8C%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%9C+%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%A9%F0%9D%90%A8;%F0%9D%90%92%F0%9D%90%A1%F0%9D%90%AB%F0%9D%90%AE%F0%9D%90%AD%F0%9D%90%A2+%F0%9D%90%8C%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%9C+%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%A9%F0%9D%90%A8;%F0%9D%90%92%F0%9D%90%A1%F0%9D%90%AB%F0%9D%90%AE%F0%9D%90%AD%F0%9D%90%A2+%F0%9D%90%8C%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%9C+%F0%9D%90%91%F0%9D%90%9E%F0%9D%90%A9%F0%9D%90%A8" alt="~𝖡𝗂𝗅𝗅𝗂𝖾 𝖬𝗎𝗌𝗂𝖼 !! ♡">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Billie%20Music%20!!%20%3C3" alt="~𝖡𝗂𝗅𝗅𝗂𝖾 𝖬𝗎𝗌𝗂𝖼 !! ♡">
 </div>
 
 ---
