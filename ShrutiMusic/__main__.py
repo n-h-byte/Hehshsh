@@ -115,7 +115,7 @@ async def init():
     await Nand.start()
 
     try:
-        await Nand.stream_call("https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4")
+        await Nand.stream_call("https://files.catbox.moe/upy2il.mp4")
     except NoActiveGroupCall:
         LOGGER("ShrutiMusic").error(
             "Please turn on the videochat of your log group\channel.\n\nStopping Bot..."
@@ -134,7 +134,7 @@ async def init():
 
     await app.stop()
     await userbot.stop()
-    LOGGER("ShrutiMusic").info("Stopping Shruti Music Bot...🥺")
+    LOGGER("ShrutiMusic").info("Stopping ~𝖡𝗂𝗅𝗅𝗂𝖾 𝖬𝗎𝗌𝗂𝖼 !! ♡ Bot...🥺")
 
 if __name__ == "__main__":
     asyncio.get_event_loop().run_until_complete(init())
