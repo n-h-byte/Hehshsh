@@ -25,8 +25,8 @@
   
 ### ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ ᴛᴏ ᴘʟᴀʏ sᴏɴɢs ɪɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛs
   
-[![Support Channel](https://img.shields.io/badge/Support%20Channel-FF0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/ShrutiBots)
-[![Support Group](https://img.shields.io/badge/Support%20Group-00FF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=FF0000)](https://t.me/ShrutiBotSupport)
+[![Support Channel](https://img.shields.io/badge/Support%20Channel-FF0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/BillieXMusic)
+[![Support Group](https://img.shields.io/badge/Support%20Group-00FF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=FF0000)](https://t.me/BillieXChat)
 [![Owner](https://img.shields.io/badge/Owner-FFFF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=8A2BE2)](https://t.me/WTF_WhyMeeh)
 
 [![Forks](https://img.shields.io/github/forks/NoxxOP/ShrutiMusic?style=social&logo=github&labelColor=FF1493&color=00CED1)](https://github.com/NoxxOP/ShrutiMusic/fork)
@@ -392,7 +392,7 @@ screen -r {screen_id}
 <td align="center" width="50%">
 
 ### 📢 **sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ**
-[![Join Channel](https://img.shields.io/badge/Join%20Channel-FF0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/ShrutiBots)
+[![Join Channel](https://img.shields.io/badge/Join%20Channel-FF0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/BillieXMusic)
 
 **ɢᴇᴛ ʟᴀᴛᴇsᴛ ᴜᴘᴅᴀᴛᴇs**
 
@@ -400,7 +400,7 @@ screen -r {screen_id}
 <td align="center" width="50%">
 
 ### 💬 **sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ**
-[![Join Group](https://img.shields.io/badge/Join%20Group-00FF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=FF0000)](https://t.me/ShrutiBotSupport)
+[![Join Group](https://img.shields.io/badge/Join%20Group-00FF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=FF0000)](https://t.me/BillieXChat)
 
 **24/7 ʜᴇʟᴘ & sᴜᴘᴘᴏʀᴛ**
 
