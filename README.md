@@ -46,7 +46,7 @@
 <td align="center" width="33%">
 
 ### 🔥 **ʜᴇʀᴏᴋᴜ**
-<a href="https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/ShrutiMusic">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/n-h-byte/Hehshsh">
 <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-FF0080?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000080" width="220px">
 </a>
 
@@ -56,7 +56,7 @@
 <td align="center" width="33%">
 
 ### ☁️ **ʀᴇɴᴅᴇʀ**
-<a href="https://render.com/deploy?repo=https://github.com/NoxxOP/ShrutiMusic">
+<a href="https://render.com/deploy?repo=https://github.com/n-h-byte/Hehshsh">
 <img src="https://img.shields.io/badge/Deploy%20To%20Render-00FF80?style=for-the-badge&logo=render&logoColor=black&labelColor=800080" width="220px">
 </a>
 
@@ -66,7 +66,7 @@
 <td align="center" width="33%">
 
 ### 🎵 **sɪᴍᴘʟᴇ ʙᴏᴛ**
-<a href="https://github.com/NoxxOP/ShrutixMusic">
+<a href="[https://github.com/NoxxOP/ShrutixMusic](https://github.com/n-h-byte/Hehshsh)">
 <img src="https://img.shields.io/badge/Simple%20Music%20Bot-FF4000?style=for-the-badge&logo=github&logoColor=white&labelColor=008000" width="220px">
 </a>
 
