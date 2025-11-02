@@ -39,8 +39,8 @@ API_ID = int(os.getenv("API_ID"))
 API_HASH = os.getenv("API_HASH")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 OWNER_ID = int(os.getenv("OWNER_ID", None))
-OWNER_USERNAME = os.getenv("OWNER_USERNAME", "WTF_WhyMeeh")
-BOT_USERNAME = os.getenv("BOT_USERNAME", "ShrutixMusicBot")
+OWNER_USERNAME = os.getenv("OWNER_USERNAME", "BillieXMusic")
+BOT_USERNAME = os.getenv("BOT_USERNAME", "BillieMusicBot")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🛠️ Database & Deployment Configs
@@ -63,13 +63,13 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 # 🔗 Support Links
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/ShrutiBots")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/ShrutiBotSupport")
-INSTAGRAM = os.getenv("INSTAGRAM", "https://instagram.com/yaduwanshi_nand")
-YOUTUBE = os.getenv("YOUTUBE", "https://youtube.com/@NandEditz")
-GITHUB = os.getenv("GITHUB", "https://github.com/NoxxOP")
-DONATE = os.getenv("DONATE", "https://t.me/ShrutiBots/91")
-PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/BillieXMusic")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/BillieXChat")
+INSTAGRAM = os.getenv("INSTAGRAM", "https://t.me/BillieXMusic")
+YOUTUBE = os.getenv("YOUTUBE", "https://t.me/BillieXMusic")
+GITHUB = os.getenv("GITHUB", "https://t.me/BillieXMusic")
+DONATE = os.getenv("DONATE", "https://t.me/BillieXMusic")
+PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://t.me/BillieXMusic")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ⏱️ Duration & Playlist Settings
@@ -112,19 +112,18 @@ AUTO_LEAVING_ASSISTANT = bool(os.getenv("AUTO_LEAVING_ASSISTANT", False))
 # 🖼️ Image URLs (Can be customized)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/7q8bfg.jpg")
-PING_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
+START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/eim8ab.jpg")
+PING_IMG_URL = "https://files.catbox.moe/i1wpv2.gif"
 PLAYLIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/yop907.gif"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/eehxb4.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/eehxb4.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-
+STREAM_IMG_URL = "https://files.catbox.moe/7rivg3.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/dej6vj.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/17f423.gif"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/dkkszb.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/21mtol.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/qupb7z.jpg"
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🔐 User & Bot State Stores
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
